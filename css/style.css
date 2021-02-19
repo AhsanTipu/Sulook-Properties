@@ -1,0 +1,580 @@
+
+
+.menu{
+    display: block;
+    margin: auto;
+}
+#ico{
+    font-size: 47px;
+    padding: 33px;
+    color: white;
+}
+
+#btnl{
+    width: 150px;
+    height: 51px;
+    border-radius: 34px;
+    outline: none;
+    color: white;
+    background-color: #303789;
+    display: block;
+    margin-left:280px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#links{
+    padding-top: 77px;
+}
+.parad{
+    width: 324px;
+    display: block;
+    margin: auto;
+}
+#who{
+    background-image: url("../images/Rec.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 620px;
+    width: 100%;
+}
+#btn4{
+    width: 173px !important;
+    height: 54px !important;
+    border-radius: 25px;
+    color: white;
+    background-color: #303789;
+    outline: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#overlay{
+    background-color: rgba(0,0,0,0.5); 
+height: 620px;
+}
+#overlaya{
+    background-color: rgba(0,0,0,0.5); 
+    height: 423px;
+}
+.cen{
+    background-color: #303789 !important;
+    height: 179px;
+    border-radius: 8px;
+    box-shadow: 0 0 0 0.2rem lightgray;
+}
+#btn2{
+    width: 130px !important;
+    height: 37px !important;
+    border-radius: 20px;
+    color: white;
+    background-color: #303789;
+    display: block;
+    margin: auto;
+    outline: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.circle1{
+    width: 112px !important;
+    height: 112px;
+    background-color:#aeaeae;
+    border-radius: 57px;
+    display: block;
+    margin: auto;
+}
+.circle2{
+    width: 112px !important;
+    height: 112px;
+    background-color:#303789;
+    border-radius: 57px;
+    display: block;
+    margin: auto;
+}
+#btn3{
+    width: 130px !important;
+    height: 37px !important;
+    border-radius: 20px;
+    color: white;
+    background-color: #303789;
+    outline: none;
+}
+#btn3ab{
+    width: 130px !important;
+    height: 37px !important;
+    border-radius: 20px;
+    margin-left: 30px;
+    color: white;
+    background-color: #303789;
+    outline: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.inpa{
+    width: 225px !important;
+}
+.ulist{
+    list-style: none;
+    margin-left: -35px;
+}
+.bline{
+    border-bottom: 3px solid #303789;
+    width: 132px;
+}
+.oline{
+    display: inline-block;
+}
+.bline2{
+        border-bottom: 3px solid #303789;
+        width: 132px;
+    
+}
+.sicons{
+    font-size: 20px;
+    color: white;
+}
+.cdiv{
+    background-color: #303789;
+    border-radius: 27px;
+    width: 42px;
+    height: 38px;
+}
+#face{
+    font-size: 20px;
+    color: white;
+    margin-left: 12px;
+    padding-top: 9px;
+}
+#tweet{
+    font-size: 20px;
+    color: white;
+    margin-left: 11px;
+    padding-top: 9px;
+}
+#ins{
+    font-size: 20px;
+    color: white;
+    margin-left: 12px;
+    padding-top: 9px;
+}
+#youtube{
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+    padding-top: 9px;
+}
+.ff{
+    font-size: 21px;
+}
+#footer{
+    background-image: url("../images/images.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 450px;
+}
+.ach{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+/* Slider */
+.slick-slide {
+    margin: 0px 20px;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-slider
+{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+            user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+    height: auto;
+    
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
+.caro-img{
+    width: 68px !important;
+}
+#sect{
+    padding-left: 150px;
+    padding-bottom: 20px;
+}
+.imgeas{
+    width: 430px;
+    display: block;
+    /* margin: auto; */
+    margin-left: -25px;
+}
+.aa{
+    padding: 8px;
+font-size: 12px;
+font-family: 'Roboto Condensed', sans-serif;
+}
+#marg{
+    margin-left: 30px;
+    line-height: 1.5;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.tza{
+    font-family: 'Roboto Condensed', sans-serif; 
+}
+.tzaa{
+    font-family: 'Roboto Condensed', sans-serif; 
+font-size: 13px;
+}
+.card-body{
+    box-shadow: 0px 0px 0px 1px lightgrey !important; 
+}
+.imgta{
+    height: 250px;
+}
+.tzab{
+    font-family: 'Roboto Condensed', sans-serif; 
+
+}
+.newa{
+    color: black !important;
+}
+/* Contact */
+.texta{
+    font-family: 'Roboto Condensed', sans-serif; 
+color: #303789;
+}
+#newc{
+    color: #303789;
+    font-size: 20px;
+}
+.icdiv{
+    margin-left: 7px;
+}
+.iccz{
+    margin-left: -58px;
+}
+#user{
+    margin-left: -1px !important;
+}
+#textar{
+    height: 160px;
+}
+
+/* Properties */
+.rows{
+    margin-top: 26px !important;
+}
+/* NAVBAR */
+#mnav{
+    display: none;
+}
+#fontnav{
+    font-weight: bold !important;
+    font-family: 'Roboto Condensed', sans-serif !important; 
+   
+
+}
+
+#navbar{
+    height: 100px;
+}
+#fontnava{
+    font-weight: bold !important;
+    font-family: 'Roboto Condensed', sans-serif !important; 
+   
+    font-size: 17px;
+}
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: white; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  }
+  
+  /* The navigation menu links */
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  /* Position and style the close button (top right corner) */
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+  #main {
+    transition: margin-left .5s;
+    padding: 20px;
+  }
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+#siden{
+    width: 55px !important;
+    height: 46px !important;
+    margin-left: 5px !important;
+    border-radius: 9px !important;
+    margin-top: 7px !important;
+    background-color: #303789 !important;
+  }
+  #hamc{
+      color: white;
+      font-size: 20px;
+  }
+  .nav-item :hover{
+      border-bottom: 2px solid #303789;
+  padding-bottom: 2px;
+    }
+  #sideli :hover{
+      color: black;
+  }
+  .active{
+      border-bottom: 2px solid #303789;
+      padding-bottom: 2px;
+  }
+  .nav-link{
+      font-size: 17px;
+  }
+  .nav{
+      font-size: 20px !important;
+  }
+  /* ABOUT */
+  #about{
+      background-color: #fdfffb;
+  }
+
+  #aim{
+      background-image: url("../images/Rectangle\ 2342.png");
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 423px;
+  }
+  #round1{
+    width: 171px;
+    height: 159px;
+    margin-top: 74px;
+  }
+  #round2{
+    width: 171px;
+    height: 159px;
+    margin-top: 253px;
+    margin-left: -212px;
+  }
+  #round3{
+    width: 171px;
+    height: 159px;
+    margin-left: 99px;
+    margin-top: 173px;
+  }
+  .padco{
+    padding-left: 151px !important;
+    padding-top: 66px;
+  }
+  .padcol{
+    padding-left: 78px !important;
+    padding-top: 66px !important;
+  }
+  .serv{
+      padding-top: 22px;
+  }
+  #coo{
+      background-color: #303789 !important;
+  }
+
+  /* Services */
+ #imgser{
+     border: 4px solid #303789;
+     border-radius: 4px;
+ margin-top: 45px;
+    }
+    ::-webkit-scrollbar {
+        width: 10px;
+      }
+      
+      /* Track */
+      ::-webkit-scrollbar-track {
+        background: lightgray;
+      }
+      
+      /* Handle */
+      ::-webkit-scrollbar-thumb {
+        background: #303789;
+      }
+      
+      /* Handle on hover */
+      ::-webkit-scrollbar-thumb:hover {
+        background: #303789;
+      }
+
+      #topup{
+          background-image: url("../images/abb.jpeg");
+          height: 355px;
+          width: 98%;
+          background-repeat: no-repeat;
+          background-size: cover;
+          display: block;
+          margin: auto;
+      }
+
+      .newlink{
+          text-decoration: none;
+          color: black;
+          font-size: 20px;
+      }
+
+      .breadc{
+          width: 240px;
+          display: block;
+          margin: auto;
+          padding-top: 130px;
+          padding-left: 59px;
+      }
+      .zz{
+          font-size: 40px;
+          margin-left: 13px;
+      }
+      .zza{
+        font-size: 40px;
+        margin-left: 5px;
+    }
+    .breadca{
+        width: 309px;
+        display: block;
+        margin: auto;
+        padding-top: 125px !important;
+        padding-left: 65px !important;
+    }
+    .breadcac{
+        width: 309px;
+        display: block;
+        margin: auto;
+        padding-top: 125px !important;
+        padding-left: 65px !important;
+    }
+
+    .zzap{
+        font-size: 30px;
+        margin-left: 10px;
+    }
+    .zzc{
+        font-size: 30px;
+        margin-left: 6px;
+    }

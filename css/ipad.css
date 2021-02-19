@@ -1,0 +1,189 @@
+
+
+@media only screen 
+and (min-width: 768px) and (max-width: 1200px) 
+ {
+    .ipp{
+        font-size: 16px !important;
+    }
+    #imgser{
+        margin-top: 115px !important;
+    }
+#top{
+    width: 399px;
+}
+#sect{
+    padding-left: 100px;
+    padding-bottom: 40px;
+}
+.imgeas{
+    display: block;
+    /* margin: auto; */
+    margin-left: -67px;
+}
+.card{
+    width: 14rem !important;
+}
+.icdiv{
+    margin-left: 0px !important;
+}
+#aim{
+    height: 444px !important;
+}
+#overlaya{
+    height: 444px !important;
+}
+.padco{
+    padding-left: 84px !important;
+    padding-top: 20px !important;
+}
+.padcol{
+  padding-left: 40px !important;
+  padding-top: 20px !important;
+}
+.breadc{
+    width: 240px;
+    display: block;
+    margin: auto;
+    padding-top: 140px !important;
+    padding-left: 59px !important;
+}
+.breadcac{
+    width: 240px;
+    display: block;
+    margin: auto;
+    padding-top: 140px !important;
+    padding-left: 59px !important;
+}
+.zz{
+    font-size: 40px !important;
+margin-left: 18px !important;
+}
+.zzc{
+    font-size: 28px !important;
+margin-left: 14px !important;
+}
+.newlink{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    margin-left: 8px;
+}
+}
+
+
+@media only screen 
+and (min-width: 768px) and (max-width: 1023px) 
+ {
+    .icdiv{
+        margin-left: 0px !important;
+    }
+.card{
+    width: 10rem !important;
+}
+.imgeas{
+    width: 310px !important;
+margin-left: -30px;
+}
+.inpa{
+    width: 161px !important;
+}
+#navbar{
+    display: none;
+}
+#mnav{
+    display: block;
+}
+#who{
+    height: 695px !important;
+}
+#overlay{
+    height: 695px !important;
+}
+#round1{
+    width: 132px !important;
+    height: 122px !important;
+    margin-top: 80px !important;
+    margin-left: 22px !important;
+  }
+  #round2{
+    width: 131px !important;
+    height: 122px !important;
+    margin-top: 229px !important;
+    margin-left: -145px !important;
+  }
+  #round3{
+    width: 132px !important;
+    height: 122px !important;
+    margin-left: 40px !important;
+    margin-top: 159px !important;
+  }
+  .padco{
+      padding-left: 40px !important;
+      padding-top: 20px !important;
+  }
+  .padcol{
+    padding-left: 40px !important;
+    padding-top: 20px !important;
+}
+#aim{
+    height: 444px !important;
+}
+#overlaya{
+    height: 444px !important;
+}
+  
+  .fip{
+      font-size: 12px;
+  }
+.ipp{
+    font-size: 10px !important;
+}
+#imgser{
+    margin-top: 65px !important;
+}
+#topup{
+    height: 198px !important;
+}
+
+.breadc{
+    width: 240px;
+    display: block;
+    margin: auto;
+    padding-top: 59px !important;
+    padding-left: 65px !important;
+}
+.zz{
+    font-size: 30px;
+margin-left: 15px;
+}
+.zza{
+    font-size: 30px !important;
+margin-left: 18px;
+}
+.newlink{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+.breadca{
+    width: 309px;
+    display: block;
+    margin: auto;
+    padding-top: 69px !important;
+    padding-left: 65px !important;
+}
+.breadcac{
+    width: 309px;
+    display: block;
+    margin: auto;
+    padding-top: 67px !important;
+    padding-left: 95px !important;
+}
+.zzc{
+    font-size: 25px !important;
+    margin-left: 14px !important;
+}
+}
+
+
